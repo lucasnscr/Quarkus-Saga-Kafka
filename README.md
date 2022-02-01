@@ -60,12 +60,4 @@ Pros
 - In systems where cyclic dependency exists among services.
 
 
-Here we finish a Project implementing Saga(Orchestration) with Axon.
-
-
-
-
-
-
-
-
+Here we finish a Project implementing Saga(Orchestration) with Quarkus.
